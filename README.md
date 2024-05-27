@@ -25,15 +25,15 @@
         <div class="project">
             <div class="project-item">
                 <h3>Hobi</h3>
-                <p Renang .</p>
+                <p Renang </p>
             </div>
             <div class="project-item">
                 <h3>Warna favorit</h3>
-                <p>biru laut .</p>
+                <p>biru laut </p>
             </div>
             <div class="project-item">
                 <h3>tempat tinggal</h3>
-                <p>serang-Banten.</p>
+                <p>serang-Banten </p>
             </div>
         </div>
     </div>
